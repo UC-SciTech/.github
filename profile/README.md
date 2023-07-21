@@ -10,6 +10,6 @@ We welcome contributions from both internal and external collaborators. If you'r
 To get started, please review our contribution guidelines to ensure a smooth collaboration process.
 
 ### 👋 Contact Us
-If you have any questions, suggestions, or would like to get involved in our projects, please don't hesitate to reach out to us. You can contact us via email at scitech@canberra.edu.au or join our Slack community to connect with other members.
+If you have any questions, suggestions, or would like to get involved in our projects, please don't hesitate to reach out to us. More information and contact can be found at [canberra.edu.au/about-uc/faculties/SciTech](https://www.canberra.edu.au/about-uc/faculties/SciTech).
 
 We look forward to collaborating with you and advancing the fields of science and technology together!
